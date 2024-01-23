@@ -1,11 +1,15 @@
 #user-input {
   padding: 1rem;
-  max-width: 60rem;
+  max-width: 44rem;
   margin: 5rem auto;
   border: 1px solid #FB37A3;
   border-radius: 10px;
   background: white;
 }
+
+/* #user-input group {
+  display: flex
+} */
 
 .container {
   padding: 1rem;
