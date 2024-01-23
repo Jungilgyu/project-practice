@@ -1,2 +1,12 @@
-// 게시물 생성 페이지
-// 수정이랑 같이 가는 것인가??
+import React from 'react';
+import BarterWrite from "../components/PostWrite/BarterWrite";
+
+const postWrite = () => {
+	return (
+		<div>
+			<BarterWrite />
+		</div>
+	)
+}
+
+export default postWrite;
